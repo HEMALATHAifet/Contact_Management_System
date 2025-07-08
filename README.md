@@ -49,6 +49,22 @@ demo.launch(share=True)
 A public URL will appear to interact with the app.
 
 ---
+## 🔐 Validations
+
+Each field in the form is validated using specific rules to ensure clean and reliable data.
+
+| Field        | Validation Rule                                  |
+|--------------|--------------------------------------------------|
+| First Name   | Required, Minimum 3 alphabets                    |
+| Middle Name  | Optional                                         |
+| Last Name    | Required, Alphabets only                         |
+| Email        | Required, Valid email format                     |
+| Phone        | Required, Exactly 10 digits, not all same digits |
+| Address      | Required                                         |
+
+> 🛑 **Email and phone number must be unique.**
+
+---
 ## 🧭 Interface Overview
 The app contains 4 main tabs, each for a CRUD operation:
 
