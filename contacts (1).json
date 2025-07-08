@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "first_name": "hema",
+        "middle_name": "",
+        "last_name": "a",
+        "address": "vilupuram",
+        "email": "abc@gmail.com",
+        "phone": "1234567890"
+    },
+    {
+        "id": 3,
+        "first_name": "kavi",
+        "middle_name": "aruna",
+        "last_name": "k",
+        "address": "123 neru street",
+        "email": "hemahema@gmail.com",
+        "phone": "4523786910"
+    },
+    {
+        "id": 4,
+        "first_name": "gokul",
+        "middle_name": "ramani",
+        "last_name": "m",
+        "address": "124 first street",
+        "email": "rtie@gmail.com",
+        "phone": "4568971203"
+    },
+    {
+        "id": 5,
+        "first_name": "gokulan",
+        "middle_name": "raman",
+        "last_name": "r",
+        "address": "236 second street",
+        "email": "gokulan@gmail.com",
+        "phone": "7894561023"
+    }
+]
